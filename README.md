@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/karankap00r"><img src="https://api.daily.dev/devcards/897d917a4bd445e8a46ea9c06ef25797.png?r=5dg" width="400" alt="Karan Kapoor's Dev Card"/></a>
 
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
 
