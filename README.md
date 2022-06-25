@@ -6,16 +6,17 @@ I am working as a Senior Software Engineer at Grab in the FinID team. As a softw
 - I am also one of the people responsible for managing the stability of the system by taking care of system resilience. This involves ensuring best practices among the team in terms of stability that could otherwise impact our application in unforeseen ways.
 - I guide my juniors, especially the new joiners as in how to get onboard to the system.
 I occasionally take part in interviews for the hiring of candidates in the organisation.
+ <br>
 
-Research Profile: https://scholar.google.com/citations?user=Fe-cQ4YAAAAJ&hl=en
-Github: https://github.com/karankapoor1610
-Competitive Coding: https://www.hackerearth.com/@Karan2116
-Tech Blogs: https://karankap00r.medium.com, http://codeforces.com/blog/Karan2116
-Leetcode: https://leetcode.com/kk16oct/
+Research Profile: https://scholar.google.com/citations?user=Fe-cQ4YAAAAJ&hl=en <br>
+Github: https://github.com/karankapoor1610 <br>
+Competitive Coding: https://www.hackerearth.com/@Karan2116 <br>
+Tech Blogs: https://karankap00r.medium.com, http://codeforces.com/blog/Karan2116 <br>
+Leetcode: https://leetcode.com/kk16oct/ <br>
 
-Contact me at karankapoor.nsit@gmail.com 
-Quora Profile: https://www.quora.com/profile/Karan-Kapoor-18
-Contact Number: +91-9910095640
+Contact me at karankapoor.nsit@gmail.com  <br>
+Quora Profile: https://www.quora.com/profile/Karan-Kapoor-18 <br>
+Contact Number: +91-9910095640 <br>
 
 <a href="https://app.daily.dev/karankap00r"><img src="https://api.daily.dev/devcards/897d917a4bd445e8a46ea9c06ef25797.png?r=5dg" width="400" alt="Karan Kapoor's Dev Card"/></a>
 
