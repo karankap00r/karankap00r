@@ -1,4 +1,4 @@
-I am working as a Lead Software Engineer at Zepto in the Finance Tech team.
+I am working as a Lead Software Engineer at Zepto in the Finance Tech team. <br>
 I love designing systems and studying engineering concepts in depth.
 
 Github: https://github.com/karankapoor1610 <br>
