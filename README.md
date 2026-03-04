@@ -19,9 +19,8 @@ I love designing systems and studying engineering concepts in depth.
 
 I operate at the intersection of **databases**, **distributed systems**, and **developer tooling** — focused on making infrastructure reliable, cost-efficient, and easy to operate at scale across a 70+ service monorepo.
 
-- **Large-Scale Migrations** — Orchestrating zero-downtime MongoDB migrations across Zepto services from Atlas to self-hosted infrastructure
+- **Large-Scale Migrations and Building platform support around Inhouse Hosted Databases** — Orchestrating zero-downtime MongoDB migrations across Zepto services from Atlas to self-hosted infrastructure
 - **Cost Optimization** — Driving infrastructure cost reduction through storage lifecycle strategies, database consolidation, and compute right-sizing
-- **Operational Excellence** — Designing validation frameworks and engineering institutional memory systems to prevent production incidents
 
 ### 🚀 Product Engineering Leadership
 
