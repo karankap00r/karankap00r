@@ -36,7 +36,7 @@ I lead engineering for 4 product verticals that power critical business operatio
 
 🔧 **mongodb-v2** — A Go library for zero-downtime MongoDB migrations with cluster-aware connection management, automatic failover, and gradual traffic shifting
 
-📉 **S3 Cost Optimizer** — Lifecycle management strategies that reduced storage costs from $41K/month to under $1K
+📉 **S3 Cost Optimizer** — Lifecycle management strategies that reduced cost from $41K/month to under $1K
 
 ## Tech I Work With
 
@@ -51,7 +51,7 @@ Tools            Docker · Git · GitHub Actions
 
 ## Writing & Research
 
-I write about infrastructure, databases, and engineering at scale on [Medium](https://medium.com/@karankap00r), and have published academic research — check out my [Google Scholar](https://scholar.google.com/citations?user=Fe-cQ4YAAAAJ&hl=en) profile.
+I write about software engineering at scale, database internals and anything I want to learn deeply on [Medium](https://medium.com/@karankap00r), and have published academic research — check out my [Google Scholar](https://scholar.google.com/citations?user=Fe-cQ4YAAAAJ&hl=en) profile.
 
 ## Get in Touch
 
