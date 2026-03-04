@@ -34,7 +34,7 @@ I lead engineering for 4 product verticals that power critical business operatio
 
 ## A Few Things I've Built
 
-🔧 **mongodb-v2** — A Go library for zero-downtime MongoDB migrations with cluster-aware connection management, automatic failover, and gradual traffic shifting
+🔧 **mongodb-facade** — A Go library for zero-downtime MongoDB migrations with cluster-aware connection management, automatic failover, and gradual traffic shifting
 
 📉 **S3 Cost Optimizer** — Lifecycle management strategies that reduced cost from $41K/month to under $1K
 
